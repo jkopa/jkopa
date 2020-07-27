@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
 # About me
-I am Jaroslaw Kopaczewski, a <b>CompSci undergrad in the UK. I like to develop fast native applications 
+I am Jaroslaw Kopaczewski, a CompSci undergrad in the UK. I like to develop fast native applications 
   
 🌱 &nbsp;&nbsp;I’m currently learning - C/C++, Vulkan, native win32 app development.
 
