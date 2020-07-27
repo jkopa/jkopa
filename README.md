@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋🏻
 
+# About me
+I am Jaroslaw Kopaczewski, a <b>CompSci undergrad in the UK. I am currently 
+  
+🌱 I’m currently learning - C/C++, Vulkan, native win32 app development.
+📫 How to reach me: [jarkopaczewski@gmail.com](jarkopaczewski@gmail.com)
 <!--
 **jkopa/jkopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
