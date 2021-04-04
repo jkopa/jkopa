@@ -1,11 +1,11 @@
 ### Hi there 👋🏻
 
 # About me
-I am Jaroslaw Kopaczewski, a CompSci undergrad in the UK. I like to develop fast native applications 
+My name is Jaroslaw Kopaczewski, I am a Computer Science undergrad with and interest in and various areas of systems development :^)
   
-🌱 &nbsp;&nbsp;I’m currently learning - C/C++, Vulkan, native win32 app development.
+🌱 &nbsp;&nbsp;I’m currently learning - Rust
 
-📫 &nbsp;&nbsp;You can reach me by [email: jarkopaczewski@gmail.com](jarkopaczewski@gmail.com) and [twitter: @jarek_kopacz](https://twitter.com/jarek_kopacz)
+📫 &nbsp;&nbsp;You can reach me by email: [jarkopaczewski@gmail.com](jarkopaczewski@gmail.com) and twitter: [@jarek_kopacz](https://twitter.com/jarek_kopacz)
 
 
 <!--
