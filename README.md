@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
 # About me
-My name is Jaroslaw Kopaczewski, I am a Computer Science undergrad with and interest in and various areas of systems development :^)
+My name is Jaroslaw Kopaczewski, I am a Computer Science undergrad with an interest in various areas of systems development :^)
   
 🌱 &nbsp;&nbsp;I’m currently learning - Rust
 
