@@ -2,8 +2,9 @@
 
 # About me
 My name is Jaroslaw Kopaczewski, I am a Computer Science undergrad with an interest in various areas of systems and application development :^)
-  
-🌱 &nbsp;&nbsp;Currently learning - C# and Rust lang
+
+🌱 &nbsp;&nbsp;Currently working with - C# and SQL
+🌱 &nbsp;&nbsp;Currently learning - Rustlang
 
 📫 &nbsp;&nbsp;You can reach me by email: [jarkopaczewski@gmail.com](jarkopaczewski@gmail.com) and twitter: [@jarek_kopacz](https://twitter.com/jarek_kopacz)
 
