@@ -3,7 +3,7 @@
 # About me
 My name is Jaroslaw Kopaczewski, I am a Computer Science undergrad with an interest in various areas of systems and application development :^)
 
-🔭 &nbsp;&nbsp;Currently working with - C# and SQL
+🔭 &nbsp;&nbsp;Currently working with - C++, C# and SQL
 
 🌱 &nbsp;&nbsp;Currently learning - Rustlang
 
